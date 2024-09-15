@@ -6,7 +6,7 @@ Next.js + MongoDB
 
 1. **Клонируйте репозиторий:**
 
-`git clone https://github.com/mobikylym/Book-store`
+`git clone https://github.com/mobikylym/Book-store.git`
 
 2. **Настройте переменные окружения:**
 
